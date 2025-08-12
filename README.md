@@ -1,7 +1,7 @@
 #welcome to my code space👋\
 
-Hi! I'm Nada, a science graduate wxploring the world of programming.
-This repository contains small tasks, excwesizes and solutions from mylearning journey- mainly from the CS50 course and other coding practice.
+Hi! I'm Nada, a science graduate exploring the world of programming.
+This repository contains small tasks, excersizes and solutions from mylearning journey- mainly from the CS50 course and other coding practice.
 
 ##📌 what's inside
 - simple c programs
